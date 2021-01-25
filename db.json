@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "title": "json-server",
+      "author": "typicode",
+      "priority": "high",
+      "date": "Tue, 25 Aug 2020",
+      "message": "teste",
+      "id": 1
+    },
+    {
+      "title": "react",
+      "author": "VOID",
+      "priority": "medium",
+      "date": "Tue, 25 Aug 2020",
+      "message": "testing",
+      "id": 2
+    }
+  ]
+}
